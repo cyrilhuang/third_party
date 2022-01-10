@@ -1,1 +1,1 @@
-workspace(name = "multi_repo_example")
+workspace(name = "third_party")
